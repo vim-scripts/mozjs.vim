@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3908
+
+JavaScript files in Mozilla products use a custom preprocessor. This is a simple inclusion of the standard JavaScript syntax rules and my Mozilla preprocessor rules (vimscript #3907), which must be installed. 
